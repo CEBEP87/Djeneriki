@@ -9,6 +9,14 @@ public class Hellow {
         Oka oka3 = new Oka(789);
         //re
 
+        //re
+        //re
+        //re
+
+        //re
+        //re
+        //re
+
         List<Oka> ca= new ArrayList();
         ca.add(oka1);
         ca.add(oka2);
