@@ -7,6 +7,7 @@ public class Hellow {
         Oka oka1 = new Oka(123);
         Oka oka2 = new Oka(456);
         Oka oka3 = new Oka(789);
+        //re
 
         List<Oka> ca= new ArrayList();
         ca.add(oka1);
